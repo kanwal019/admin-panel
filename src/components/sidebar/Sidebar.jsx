@@ -1,4 +1,4 @@
-import "./sidebar.scss"
+import "./sidebar.scss";
 import DashboardTwoToneIcon from '@mui/icons-material/DashboardTwoTone';
 import PeopleAltIcon from '@mui/icons-material/PeopleAlt';
 import Inventory2TwoToneIcon from '@mui/icons-material/Inventory2TwoTone';
