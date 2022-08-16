@@ -1,8 +1,8 @@
+import Home from "./pages/home/Home";
+
 function App() {
   return (
-    <h1>
-      Sample App
-    </h1>
+    <Home />
   );
 }
 
